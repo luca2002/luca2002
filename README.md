@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=luca2002)]
+![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=luca2002)
 <!-- -->
