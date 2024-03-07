@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Codewars](https://github.r2v.ch/codewars?user=luca2002&stroke=blue)
+![Codewars](https://github.r2v.ch/codewars?user=luca2002)
 <!-- -->
